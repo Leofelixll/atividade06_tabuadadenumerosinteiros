@@ -1,0 +1,13 @@
+# Digite um numero interio e veja sua tabuada
+print ('tabuada de numeros inteiros')
+valor = int(input("digite um numero inteiro:"))
+print(valor*1)
+print(valor*2)
+print(valor*3)
+print(valor*4)
+print(valor*5)
+print(valor*6)
+print(valor*7)
+print(valor*8)
+print(valor*9)
+print(valor*10)
